@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Syarifuddin**.\
+Perkenalkan nama saya **Syarifuddin**.
 
 ### Github Statistic
 <p align="left">
@@ -12,6 +12,6 @@ Perkenalkan nama saya **Syarifuddin**.\
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/syarif-uddin-90310028a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
-- <a href="_syarifddn">Instagram</a>
+- <a href="https://instagram.com/_syarifddn?igshid=MzMyNGUyNmU2YQ==">Instagram</a>
 - Syrfddn020@gmail.com
-- <a href="syarifuddin2020">Twitter</a>
+- <a href="https://twitter.com/Syarifuddin2020?t=n19Z6a89YvgugHU69gm1pg&s=08">Twitter</a>
