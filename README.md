@@ -11,7 +11,7 @@ Perkenalkan nama saya **Syarifuddin**.\
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="https://www.linkedin.com/in/syarif-uddin-90310028a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+- <a href="_syarifddn">Instagram</a>
+- Syrfddn020@gmail.com
+- <a href="syarifuddin2020">Twitter</a>
